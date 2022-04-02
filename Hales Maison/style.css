@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    height: 100vh;
+}
+.brand-logo{
+    height: 70px;
+    width: 70px;
+}
+.item-image{
+    height:350px ;
+    width: 250px;
+}
